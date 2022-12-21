@@ -1,1 +1,1 @@
-# hello-world by masturpavel, big brain, big muscles.
+# hello-world by kholopov pavel
